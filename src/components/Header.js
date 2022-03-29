@@ -56,6 +56,7 @@ export default function Header(props) {
             </button>
           </div>
         </div>
+        <h1 class="font-bold py-4">HashiCups</h1>
         <div className="absolute left-0 top-0">
           <Image src="/images/demo.svg" height={88} width={88} />
         </div>
